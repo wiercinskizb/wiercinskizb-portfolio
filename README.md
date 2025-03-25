@@ -1,5 +1,3 @@
-# wiercinskizb-portfolio
-
 ![Zbigniew Wierciński Portfolio](image.png)
 
 Welcome to my Data Analyst portfolio.  
