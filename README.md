@@ -3,7 +3,7 @@
 Welcome to my Data Analyst portfolio.  
 🔗 [My GitHub Profile](https://github.com/wiercinskizb)  
 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/wiercinskizb/)  
-🔗 [Portfolio Website](https://wiercinskizb.github.io/zbyszek-portfolio/)
+🔗 [Portfolio Website](https://wiercinskizb.github.io/wiercinskizb-portfolio/)
 
 This portfolio includes projects such as:
 - Instacart Case Study (Python, pandas)
