@@ -4,6 +4,7 @@ Welcome to my Data Analyst portfolio.
 🔗 [My GitHub Profile](https://github.com/wiercinskizb)  
 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/wiercinskizb/)  
 🔗 [Portfolio Website](https://wiercinskizb.github.io/wiercinskizb-portfolio/)
+
 🔗 [Resume](https://github.com/wiercinskizb/wiercinskizb-portfolio/blob/main/Wiercinski-Zbigniew-Resume.pdf)
 
 This portfolio includes projects such as:
